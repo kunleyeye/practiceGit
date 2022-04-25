@@ -38,6 +38,7 @@ public class quickCheck {
 		//sendmail();
 		
 		getRandom();
+		System.out.println("Hello World");
 		
 		//switchtabs();
 		
